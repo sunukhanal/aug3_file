@@ -9,7 +9,6 @@ public class Demoif {
 			System.out.println("it is true");
 		}
 		System.out.println("not true");
-
 	}
 
 }
